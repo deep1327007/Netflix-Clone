@@ -13,3 +13,5 @@ Stay persistent, tackle those bugs, refine your code (even if it feels a bit dum
 Keep hustling and coding away!
 
 ![Netflix Clone Hone Page](https://github.com/deep1327007/Netflix-Clone/blob/main/Netflix%20Clone%20SS/Netflix%20Home%20Page.png)
+
+![Netflix Clone Home Page Rows](https://github.com/deep1327007/Netflix-Clone/blob/main/Netflix%20Clone%20SS/Netflix%20Home%20Page%20Rows.png)
