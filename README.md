@@ -11,3 +11,5 @@ During this journey, I sought guidance from resources like W3 Schools and ChatGP
 Stay persistent, tackle those bugs, refine your code (even if it feels a bit dumb at times), and yes, if needed, a keyboard might take a hit or two (we've all been there!). Build projects at your own pace, and with each endeavor, you'll undoubtedly become a more adept developer.
 
 Keep hustling and coding away!
+
+![Netflix Clone Hone Page](https://github.com/deep1327007/Netflix-Clone/blob/main/Netflix%20Clone%20SS/Netflix%20Home%20Page.png)
